@@ -7,7 +7,7 @@ This JavaScript function generates a human-readable Ethereum address using the l
 Use the package manager [npm](npmjs.com) to install.
 
 ```bash
-npm install generate-nice-eth-address
+npm install fk-evm-address-generator
 ```
 
 ## Usage
